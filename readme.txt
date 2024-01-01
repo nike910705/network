@@ -1,11 +1,5 @@
-where are you
-how are you
-who are you
-
-20231226 
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
-
+Git is a version control system.
+Git is free software.
+time 20231231
+nike dev test
 git pull 20240101
